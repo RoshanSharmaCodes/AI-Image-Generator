@@ -7,7 +7,7 @@
   "scripts": {
     "start": "nodemon index"
   },
-  "author": "rishabh",
+  "author": "Roshan",
   "license": "ISC",
   "dependencies": {
     "cloudinary": "^1.39.0",
@@ -17,5 +17,8 @@
     "mongoose": "^7.4.1",
     "nodemon": "^3.0.1",
     "openai": "^3.3.0"
+  },
+  "engines": {
+    "node": ">=14.20.1"
   }
 }
